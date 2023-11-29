@@ -1,74 +1,74 @@
-﻿No.,Knowledge Field,Privacy,Data Source Type,Dataset Version,DataSets (Links)
-,CPU,Public,Arm Specs,0.2,https://confluence.arm.com/download/attachments/1530550040/Armv8-A_Exception_model.pdf?version=1&modificationDate=1701049009701&api=v2
-,,,,0.2,https://confluence.arm.com/download/attachments/1530550040/Armv8-A_Memory_Management.pdf?version=1&modificationDate=1701049010892&api=v2
-,,,,0.2,https://confluence.arm.com/download/attachments/1530550040/Armv8-A-Aarch64_virtualization.pdf?version=1&modificationDate=1701049012530&api=v2
-,,,,0.2,https://confluence.arm.com/download/attachments/1530550040/cortex_a55_trm_100442_0100_00_en.pdf?version=1&modificationDate=1701049835103&api=v2
-,,,KBA,0.2,https://confluence.arm.com/download/attachments/1530550040/KBA-1060.pdf?version=1&modificationDate=1701049801164&api=v2
-,,,,0.2,https://confluence.arm.com/download/attachments/1530550040/KBA-1145.pdf?version=1&modificationDate=1701049802152&api=v2
-,,,,0.2,https://confluence.arm.com/download/attachments/1530550040/KBA-1737.pdf?version=1&modificationDate=1701049802747&api=v2
-,,Restrict User,Training Docs,0.2,https://confluence.arm.com/download/attachments/1530550040/2010_Armv9_AArch64_Exceptions.pdf?version=1&modificationDate=1701049931464&api=v2
-,,,,0.2,https://confluence.arm.com/download/attachments/1530550040/1574_TZ_Secure_Boot_Example_ATF.pdf?version=1&modificationDate=1701050043983&api=v2
-,,Internal,Confluence,0.2,https://confluence.arm.com/download/attachments/1530550040/General%20Coding%20Guidelines.pdf?version=1&modificationDate=1701050313601&api=v2
-,,,,0.2,https://confluence.arm.com/download/attachments/1530550040/No_fpu_configuration%20for%20AArch64.pdf?version=1&modificationDate=1701050314448&api=v2
-,,,,0.2,https://confluence.arm.com/download/attachments/1530550040/Top-Down%20CPU%20Performance%20Methodo%20%281%29.pdf?version=1&modificationDate=1701050315125&api=v2
-,,,case,0.2,https://confluence.arm.com/download/attachments/1530550040/Case_%2003402493%20~%20Salesforce%20-%20Unlimited%20Edition.pdf?version=1&modificationDate=1701050691528&api=v2
-,,,,0.2,https://confluence.arm.com/download/attachments/1530550040/Case_%2003452708%20~%20Salesforce%20-%20Unlimited%20Edition.pdf?version=1&modificationDate=1701050693216&api=v2
-,,,,0.2,https://confluence.arm.com/download/attachments/1530550040/Case_%2003454139%20~%20Salesforce%20-%20Unlimited%20Edition.pdf?version=1&modificationDate=1701050694507&api=v2
-,Fabric/System IP,Public,Arm Specs,0.2,https://confluence.arm.com/download/attachments/1530550040/IHI0082A_amba_adaptive_traffic_profiles_specification.pdf?version=2&modificationDate=1701051649273&api=v2
-,,,,0.2,https://confluence.arm.com/download/attachments/1530550040/IHI0011a.pdf?version=2&modificationDate=1701051651186&api=v2
-,,,,0.2,https://confluence.arm.com/download/attachments/1530550040/help_with_debugging_and_tracing_targets_guide_107551_2.1_02_en.pdf?version=2&modificationDate=1701051653135&api=v2
-,,,,0.2,https://confluence.arm.com/download/attachments/1530550040/corelink_cmn600_technical_reference_manual_100180_0302_01_en.pdf?version=1&modificationDate=1701051471908&api=v2
-,,,,0.2,https://confluence.arm.com/download/attachments/1530550040/corelink_gic600ae_trm_101206_0003_04_en.pdf?version=1&modificationDate=1701051474385&api=v2
-,,,KBA,0.2,https://confluence.arm.com/download/attachments/1530550040/How%20do%20I%20drive%20a%20PMU%20snapshot%20interface%20using%20a%20CoreSight%20SoC-600%20CTI_.pdf?version=1&modificationDate=1701051039122&api=v2
-,,,,0.2,https://confluence.arm.com/download/attachments/1530550040/How%20do%20I%20use%20CMN600%20Watchpoints%20from%20Linux%20perf%20tools_.pdf?version=1&modificationDate=1701051041064&api=v2
-,,,,0.2,https://confluence.arm.com/download/attachments/1530550040/Why%20does%20the%20SERR%20field%20of%20the%20MMU-700%20TBU_ERRSTATUS%20register%20have%20a%20nonzero%20value%20after%20this%20register%20is%20cleared_.pdf?version=1&modificationDate=1701051042793&api=v2
-,,Restrict User,Training Docs,0.2,https://confluence.arm.com/download/attachments/1530550040/1947_SYSOC_CoreLink_CMN600_Creation.pdf?version=1&modificationDate=1701051484620&api=v2
-,,Internal,Confluence,0.2,https://confluence.arm.com/download/attachments/1530550040/IP%20Component%20System%20Level%20Verifi_cc86899ac3324cfab294b2f8868c0daf-271123-0230-78.pdf?version=1&modificationDate=1701052217725&api=v2
-,,,,0.2,https://confluence.arm.com/download/attachments/1530550040/System%20IP%20measurement%20at%20the%20cor_ca6d14fad1d540ca8ac77a56bb494c44-271123-0229-76.pdf?version=1&modificationDate=1701052218267&api=v2
-,,,,0.2,https://confluence.arm.com/download/attachments/1530550040/848170482_e5a7432f2e9f4d698a70e415d7c97ccd-271123-0229-74.pdf?version=1&modificationDate=1701052218795&api=v2
-,,,case,0.2,https://confluence.arm.com/download/attachments/1530550040/Case_%2000157318%20~%20Salesforce%20-%20Unlimited%20Edition.pdf?version=1&modificationDate=1701052472236&api=v2
-,,,,0.2,https://confluence.arm.com/download/attachments/1530550040/Case_%2000158161%20~%20Salesforce%20-%20Unlimited%20Edition.pdf?version=1&modificationDate=1701052473674&api=v2
-,,,,0.2,https://confluence.arm.com/download/attachments/1530550040/Case_%2000161036%20~%20Salesforce%20-%20Unlimited%20Edition.pdf?version=1&modificationDate=1701052474856&api=v2
-,GPU,Public,Arm Specs,0.2,https://confluence.arm.com/download/attachments/1530550040/learn_the_basics_-_the_midgard_shader_core_102560_0100_02_en.pdf?version=1&modificationDate=1701052994687&api=v2
-,,,,0.2,https://confluence.arm.com/download/attachments/1530550040/the_bifrost_shader_core_102546_0100_02_en.pdf?version=1&modificationDate=1701052995693&api=v2
-,,,,0.2,https://confluence.arm.com/download/attachments/1530550040/real-time_3d_art_best_practices_-_lighting_guide_102109_0100_03_en.pdf?version=1&modificationDate=1701052996475&api=v2
-,,,KBA,0.2,https://confluence.arm.com/download/attachments/1530550040/%5B%23KBA-4889%5D%20How%20do%20I%20use%20Graphics%20Analyzer%20to%20capture%20OpenGL%20ES%20API%20calls%20and%20state%20for%20CTS_.pdf?version=1&modificationDate=1701053222589&api=v2
-,,,,0.2,https://confluence.arm.com/download/attachments/1530550040/%5B%23KBA-5484%5D%20Does%20Mali-G78AE%20support%20multi-bus%20interfaces%20for%20CPU%20clusters_.pdf?version=1&modificationDate=1701053224256&api=v2
-,,,,0.2,https://confluence.arm.com/download/attachments/1530550040/%5B%23KBA-5752%5D%20What%20is%20MPAM_%20In%20Titan%20architecture%2C%20does%20GPU%20support%20this%20feature%20currently_.pdf?version=1&modificationDate=1701053225284&api=v2
-,,Restrict User,Training Docs,0.2,https://confluence.arm.com/download/attachments/1530550040/0962_Mali-T760_Architecture.pdf?version=1&modificationDate=1701053457219&api=v2
-,,,,0.2,https://confluence.arm.com/download/attachments/1530550040/1240_Mali-Bifrost_GPU_Compute.pdf?version=1&modificationDate=1701053459250&api=v2
-,,,,0.2,https://confluence.arm.com/download/attachments/1530550040/1688_Mali_GPU_technology.pdf?version=1&modificationDate=1701053461189&api=v2
-,,Internal,Confluence,0.2,https://confluence.arm.com/download/attachments/1530550040/How%20to%20build%20a%20Mali%20GPU%20model%20wi_d427178d88f54569b9553f71faa2b08b-271123-0301-84.pdf?version=1&modificationDate=1701054138323&api=v2
-,,,,0.2,https://confluence.arm.com/download/attachments/1530550040/Mali%20GPU%20UPF%20Flow_723ed88f7d1b40fba14421b1823f80dd-271123-0300-82.pdf?version=1&modificationDate=1701054138810&api=v2
-,,,,0.2,https://confluence.arm.com/download/attachments/1530550040/1342080700_d415e00abeae41a28ec6728cf566f020-271123-0259-80.pdf?version=1&modificationDate=1701054139265&api=v2
-,,,case,0.2,https://confluence.arm.com/download/attachments/1530550040/Case_%2000155893%20~%20Salesforce%20-%20Unlimited%20Edition.pdf?version=1&modificationDate=1701054407764&api=v2
-,,,,0.2,https://confluence.arm.com/download/attachments/1530550040/Case_%2003454060%20~%20Salesforce%20-%20Unlimited%20Edition.pdf?version=1&modificationDate=1701054408867&api=v2
-,,,,0.2,https://confluence.arm.com/download/attachments/1530550040/Case_%2003454699%20~%20Salesforce%20-%20Unlimited%20Edition.pdf?version=1&modificationDate=1701054409770&api=v2
-,OtherArmIP,Public,Arm Specs,,
-,,,,,
-,,,,,
-,,,KBA,,
-,,,,,
-,,,,,
-,,Restrict User,Training Docs,,
-,,,,,
-,,,,,
-,,Internal,Confluence,,
-,,,,,
-,,,,,
-,,,case,,
-,,,,,
-,,,,,
-,ArmTool&Ecosystem,Public,Arm Specs,,
-,,,,,
-,,,,,
-,,,KBA,,
-,,,,,
-,,,,,
-,,Restrict User,Training Docs,,
-,,,,,
-,,,,,
-,,Internal,Confluence,,
-,,,,,
-,,,,,
-,,,case,,
+﻿ Doc ID., Product Type, Product Family, Privacy, Data Source Type, Dataset Version, DataSets (Links)
+1881,CPU,Cortex-A / Cortex X / Neoverse,Public,Arm Specs,0.2,https://confluence.arm.com/download/attachments/1530550040/Armv8-A_Exception_model.pdf?version=1&modificationDate=1701049009701&api=v2
+1882,CPU,Cortex-A / Cortex X / Neoverse,Public,Arm Specs,0.2,https://confluence.arm.com/download/attachments/1530550040/Armv8-A_Memory_Management.pdf?version=1&modificationDate=1701049010892&api=v2
+1883,CPU,Cortex-A / Cortex X / Neoverse,Public,Arm Specs,0.2,https://confluence.arm.com/download/attachments/1530550040/Armv8-A-Aarch64_virtualization.pdf?version=1&modificationDate=1701049012530&api=v2
+1884,CPU,Cortex-A / Cortex X / Neoverse,Public,Arm Specs,0.2,https://confluence.arm.com/download/attachments/1530550040/cortex_a55_trm_100442_0100_00_en.pdf?version=1&modificationDate=1701049835103&api=v2
+1885,CPU,Cortex-A / Cortex X / Neoverse,Public,KBA,0.2,https://confluence.arm.com/download/attachments/1530550040/KBA-1060.pdf?version=1&modificationDate=1701049801164&api=v2
+1886,CPU,Cortex-M,Public,KBA,0.2,https://confluence.arm.com/download/attachments/1530550040/KBA-1145.pdf?version=1&modificationDate=1701049802152&api=v2
+1901,CPU,Coresight,Public,KBA,0.2,https://confluence.arm.com/download/attachments/1530550040/How%20do%20I%20drive%20a%20PMU%20snapshot%20interface%20using%20a%20CoreSight%20SoC-600%20CTI_.pdf?version=1&modificationDate=1701051039122&api=v2
+1887,CPU,Coresight,Public,KBA,0.2,https://confluence.arm.com/download/attachments/1530550040/KBA-1737.pdf?version=1&modificationDate=1701049802747&api=v2
+1888,CPU,Cortex-A / Cortex X / Neoverse,Restrict User,Training Docs,0.2,https://confluence.arm.com/download/attachments/1530550040/2010_Armv9_AArch64_Exceptions.pdf?version=1&modificationDate=1701049931464&api=v2
+1889,CPU,Cortex-A / Cortex X / Neoverse,Restrict User,Training Docs,0.2,https://confluence.arm.com/download/attachments/1530550040/1574_TZ_Secure_Boot_Example_ATF.pdf?version=1&modificationDate=1701050043983&api=v2
+1890,CPU,Cortex-A / Cortex X / Neoverse,Internal,Confluence,0.2,https://confluence.arm.com/download/attachments/1530550040/General%20Coding%20Guidelines.pdf?version=1&modificationDate=1701050313601&api=v2
+1891,CPU,Cortex-A / Cortex X / Neoverse,Internal,Confluence,0.2,https://confluence.arm.com/download/attachments/1530550040/No_fpu_configuration%20for%20AArch64.pdf?version=1&modificationDate=1701050314448&api=v2
+1892,CPU,Arch & OSS,Internal,Confluence,0.2,https://confluence.arm.com/download/attachments/1530550040/Top-Down%20CPU%20Performance%20Methodo%20%281%29.pdf?version=1&modificationDate=1701050315125&api=v2
+1894,CPU,Cortex-A / Cortex X / Neoverse,Internal,case,0.2,https://confluence.arm.com/download/attachments/1530550040/Case_%2003452708%20~%20Salesforce%20-%20Unlimited%20Edition.pdf?version=1&modificationDate=1701050693216&api=v2
+1895,CPU,Cortex-A / Cortex X / Neoverse,Internal,case,0.2,https://confluence.arm.com/download/attachments/1530550040/Case_%2003454139%20~%20Salesforce%20-%20Unlimited%20Edition.pdf?version=1&modificationDate=1701050694507&api=v2
+1903,CPU,Cortex-A / Cortex X / Neoverse,Public,KBA,0.2,https://confluence.arm.com/download/attachments/1530550040/Why%20does%20the%20SERR%20field%20of%20the%20MMU-700%20TBU_ERRSTATUS%20register%20have%20a%20nonzero%20value%20after%20this%20register%20is%20cleared_.pdf?version=1&modificationDate=1701051042793&api=v2
+1893,Fabric&System IP,GIC,Internal,case,0.2,https://confluence.arm.com/download/attachments/1530550040/Case_%2003402493%20~%20Salesforce%20-%20Unlimited%20Edition.pdf?version=1&modificationDate=1701050691528&api=v2
+1896,Fabric&System IP,ArmBus,Public,Arm Specs,0.2,https://confluence.arm.com/download/attachments/1530550040/IHI0082A_amba_adaptive_traffic_profiles_specification.pdf?version=2&modificationDate=1701051649273&api=v2
+1897,Fabric&System IP,ArmBus,Public,Arm Specs,0.2,https://confluence.arm.com/download/attachments/1530550040/IHI0011a.pdf?version=2&modificationDate=1701051651186&api=v2
+1899,Fabric&System IP,CoreLink,Public,Arm Specs,0.2,https://confluence.arm.com/download/attachments/1530550040/corelink_cmn600_technical_reference_manual_100180_0302_01_en.pdf?version=1&modificationDate=1701051471908&api=v2
+1900,Fabric&System IP,CoreLink,Public,Arm Specs,0.2,https://confluence.arm.com/download/attachments/1530550040/corelink_gic600ae_trm_101206_0003_04_en.pdf?version=1&modificationDate=1701051474385&api=v2
+1902,Fabric&System IP,CoreLink,Public,KBA,0.2,https://confluence.arm.com/download/attachments/1530550040/How%20do%20I%20use%20CMN600%20Watchpoints%20from%20Linux%20perf%20tools_.pdf?version=1&modificationDate=1701051041064&api=v2
+1904,Fabric&System IP,CoreLink,Restrict User,Training Docs,0.2,https://confluence.arm.com/download/attachments/1530550040/1947_SYSOC_CoreLink_CMN600_Creation.pdf?version=1&modificationDate=1701051484620&api=v2
+1905,Fabric&System IP,SystemIP_General,Internal,Confluence,0.2,https://confluence.arm.com/download/attachments/1530550040/IP%20Component%20System%20Level%20Verifi_cc86899ac3324cfab294b2f8868c0daf-271123-0230-78.pdf?version=1&modificationDate=1701052217725&api=v2
+1906,Fabric&System IP,SystemIP_General,Internal,Confluence,0.2,https://confluence.arm.com/download/attachments/1530550040/System%20IP%20measurement%20at%20the%20cor_ca6d14fad1d540ca8ac77a56bb494c44-271123-0229-76.pdf?version=1&modificationDate=1701052218267&api=v2
+1907,Fabric&System IP,SystemIP_General,Internal,Confluence,0.2,https://confluence.arm.com/download/attachments/1530550040/848170482_e5a7432f2e9f4d698a70e415d7c97ccd-271123-0229-74.pdf?version=1&modificationDate=1701052218795&api=v2
+1908,Fabric&System IP,CoreLink,Internal,case,0.2,https://confluence.arm.com/download/attachments/1530550040/Case_%2000157318%20~%20Salesforce%20-%20Unlimited%20Edition.pdf?version=1&modificationDate=1701052472236&api=v2
+1909,Fabric&System IP,CoreLink,Internal,case,0.2,https://confluence.arm.com/download/attachments/1530550040/Case_%2000158161%20~%20Salesforce%20-%20Unlimited%20Edition.pdf?version=1&modificationDate=1701052473674&api=v2
+1910,Fabric&System IP,ArmBus,Internal,case,0.2,https://confluence.arm.com/download/attachments/1530550040/Case_%2000161036%20~%20Salesforce%20-%20Unlimited%20Edition.pdf?version=1&modificationDate=1701052474856&api=v2
+1911,"GPU, ISP&ML",Mali-GPU,Public,Arm Specs,0.2,https://confluence.arm.com/download/attachments/1530550040/learn_the_basics_-_the_midgard_shader_core_102560_0100_02_en.pdf?version=1&modificationDate=1701052994687&api=v2
+1912,"GPU, ISP&ML",Mali-GPU,Public,Arm Specs,0.2,https://confluence.arm.com/download/attachments/1530550040/the_bifrost_shader_core_102546_0100_02_en.pdf?version=1&modificationDate=1701052995693&api=v2
+1913,"GPU, ISP&ML",Mali-GPU,Public,Arm Specs,0.2,https://confluence.arm.com/download/attachments/1530550040/real-time_3d_art_best_practices_-_lighting_guide_102109_0100_03_en.pdf?version=1&modificationDate=1701052996475&api=v2
+1914,"GPU, ISP&ML",Mali-GPU,Public,KBA,0.2,https://confluence.arm.com/download/attachments/1530550040/%5B%23KBA-4889%5D%20How%20do%20I%20use%20Graphics%20Analyzer%20to%20capture%20OpenGL%20ES%20API%20calls%20and%20state%20for%20CTS_.pdf?version=1&modificationDate=1701053222589&api=v2
+1915,"GPU, ISP&ML",Mali-GPU,Public,KBA,0.2,https://confluence.arm.com/download/attachments/1530550040/%5B%23KBA-5484%5D%20Does%20Mali-G78AE%20support%20multi-bus%20interfaces%20for%20CPU%20clusters_.pdf?version=1&modificationDate=1701053224256&api=v2
+1916,"GPU, ISP&ML",Mali-GPU,Public,KBA,0.2,https://confluence.arm.com/download/attachments/1530550040/%5B%23KBA-5752%5D%20What%20is%20MPAM_%20In%20Titan%20architecture%2C%20does%20GPU%20support%20this%20feature%20currently_.pdf?version=1&modificationDate=1701053225284&api=v2
+1917,"GPU, ISP&ML",Mali-GPU,Restrict User,Training Docs,0.2,https://confluence.arm.com/download/attachments/1530550040/0962_Mali-T760_Architecture.pdf?version=1&modificationDate=1701053457219&api=v2
+1918,"GPU, ISP&ML",Mali-GPU,Restrict User,Training Docs,0.2,https://confluence.arm.com/download/attachments/1530550040/1240_Mali-Bifrost_GPU_Compute.pdf?version=1&modificationDate=1701053459250&api=v2
+1919,"GPU, ISP&ML",Mali-GPU,Restrict User,Training Docs,0.2,https://confluence.arm.com/download/attachments/1530550040/1688_Mali_GPU_technology.pdf?version=1&modificationDate=1701053461189&api=v2
+1920,"GPU, ISP&ML",Mali-GPU,Internal,Confluence,0.2,https://confluence.arm.com/download/attachments/1530550040/How%20to%20build%20a%20Mali%20GPU%20model%20wi_d427178d88f54569b9553f71faa2b08b-271123-0301-84.pdf?version=1&modificationDate=1701054138323&api=v2
+1921,"GPU, ISP&ML",Mali-GPU,Internal,Confluence,0.2,https://confluence.arm.com/download/attachments/1530550040/Mali%20GPU%20UPF%20Flow_723ed88f7d1b40fba14421b1823f80dd-271123-0300-82.pdf?version=1&modificationDate=1701054138810&api=v2
+1922,"GPU, ISP&ML",Mali-GPU,Internal,Confluence,0.2,https://confluence.arm.com/download/attachments/1530550040/1342080700_d415e00abeae41a28ec6728cf566f020-271123-0259-80.pdf?version=1&modificationDate=1701054139265&api=v2
+1923,"GPU, ISP&ML",Mali-GPU,Internal,case,0.2,https://confluence.arm.com/download/attachments/1530550040/Case_%2000155893%20~%20Salesforce%20-%20Unlimited%20Edition.pdf?version=1&modificationDate=1701054407764&api=v2
+1924,"GPU, ISP&ML",Mali-GPU,Internal,case,0.2,https://confluence.arm.com/download/attachments/1530550040/Case_%2003454060%20~%20Salesforce%20-%20Unlimited%20Edition.pdf?version=1&modificationDate=1701054408867&api=v2
+1925,"GPU, ISP&ML",Mali-GPU,Internal,case,0.2,https://confluence.arm.com/download/attachments/1530550040/Case_%2003454699%20~%20Salesforce%20-%20Unlimited%20Edition.pdf?version=1&modificationDate=1701054409770&api=v2
+,OtherArmProducts,,Public,Arm Specs,,testlink
+,OtherArmProducts,,Public,Arm Specs,,
+,OtherArmProducts,,Public,Arm Specs,,
+,OtherArmProducts,,Public,KBA,,
+,OtherArmProducts,,Public,KBA,,
+,OtherArmProducts,,Public,KBA,,
+,OtherArmProducts,,Restrict User,Training Docs,,
+,OtherArmProducts,,Restrict User,Training Docs,,
+,OtherArmProducts,,Restrict User,Training Docs,,
+,OtherArmProducts,,Internal,Confluence,,
+,OtherArmProducts,,Internal,Confluence,,
+,OtherArmProducts,,Internal,Confluence,,
+,OtherArmProducts,,Internal,case,,
+,OtherArmProducts,,Internal,case,,
+,OtherArmProducts,,Internal,case,,
+,Tool&Ecosystem,,Public,Arm Specs,,
+1898,Tool&Ecosystem,DebugTools,Public,Arm Specs,0.2,https://confluence.arm.com/download/attachments/1530550040/help_with_debugging_and_tracing_targets_guide_107551_2.1_02_en.pdf?version=2&modificationDate=1701051653135&api=v2
+,Tool&Ecosystem,,Public,Arm Specs,,
+,Tool&Ecosystem,,Public,Arm Specs,,
+,Tool&Ecosystem,,Public,KBA,,
+,Tool&Ecosystem,,Public,KBA,,
+,Tool&Ecosystem,,Public,KBA,,
+,Tool&Ecosystem,,Restrict User,Training Docs,,
+,Tool&Ecosystem,,Restrict User,Training Docs,,
+,Tool&Ecosystem,,Restrict User,Training Docs,,
+,Tool&Ecosystem,,Internal,Confluence,,
+,Tool&Ecosystem,,Internal,Confluence,,
+,Tool&Ecosystem,,Internal,Confluence,,
+,Tool&Ecosystem,,Internal,case,,
